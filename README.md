@@ -42,6 +42,9 @@ A lista de materiais de apoio (abaixo) está em constante atualização. Sugest�
 3. [Hands-on Machine Learning with R](https://bradleyboehmke.github.io/HOML/) `Boehmke & Greenwell, 2019`
 4. [Python para Estatísticos](https://tmfilho.github.io/pyestbook/intro.html) `Telmo Menezes, 2021`
 5. [Python for Data Science](https://aeturrell.github.io/python4DS/welcome.html) `Arthur Turrell, 2022`
+
+## Matemática para Computação
+1. [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) `Eric Lehman, Tohmson Leighton, Albert R Meyer, 2018` 
 ---
 
 **Vídeos** :tv:
